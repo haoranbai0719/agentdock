@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.0.4/AgentDock-1.0.4.exe",
-  "notes": "1.0.4 更新内容：\n1. 新增「联网模式」：同时检索本地数据库与互联网（Bing/DuckDuckGo），回答更全面；\n2. 联网回答明确标注信息来源：数据库 / 联网；\n3. 回答下方展示「信息来源」面板，联网链接可点击打开；\n4. 联网搜索失败时自动降级为仅数据库回答，不影响使用。"
+  "version": "1.0.5",
+  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.0.5/AgentDock-1.0.5.exe",
+  "notes": "1.0.5 更新内容：\n1. 修复国内网络检查更新时「连接被重置」的问题：自动尝试 GitHub 国内加速镜像；\n2. 检查更新与 exe 下载均支持镜像自动回退，无需手动更换地址；\n3. 1.0.4 已内置：新增「联网模式」（同时检索本地数据库与互联网，回答标注来源）。"
 }
