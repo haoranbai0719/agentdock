@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.0.6/AgentDock-1.0.6.exe",
-  "notes": "1.0.6 更新内容：\n1. 联网模式升级为「智能体」体验：AI 自主判断是否需要联网搜索，自动提炼精准搜索词；\n2. 闲聊、寒暄、本地资料问题不再强行联网，可自然对话（类似豆包、千问）；\n3. 搜索时气泡实时显示「正在联网搜索：关键词」，回答下方展示搜索词；\n4. 思考模式也支持自然聊天：资料相关才引用数据库，否则正常交流；\n5. 1.0.5 已修复：国内网络检查更新自动走 GitHub 加速镜像。"
+  "version": "1.0.13",
+  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.0.13/AgentDock-1.0.13.exe",
+  "notes": "本次更新内容：1. 聊天窗口新增用户与 AI 专属头像，更换头像后历史聊天记录同步更新；2. 界面按钮文字统一居中展示；3. 优化应用启动速度，打开更迅速"
 }
