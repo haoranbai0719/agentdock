@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.0.13/AgentDock-1.0.13.exe",
-  "notes": "本次更新内容：1. 聊天窗口新增用户与 AI 专属头像，更换头像后历史聊天记录同步更新；2. 界面按钮文字统一居中展示；3. 优化应用启动速度，打开更迅速"
+  "version": "1.1.0",
+  "url": "https://github.com/haoranbai0719/agentdock/releases/download/v1.1.0/AgentDock-1.1.0.exe",
+  "notes": "1.1测试版"
 }
